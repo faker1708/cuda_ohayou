@@ -1,0 +1,5 @@
+/tmp/tmpxft_000012fd_00000000-11_b.o: In function `main':
+tmpxft_000012fd_00000000-6_b.cudafe1.cpp:(.text+0x25): undefined reference to `nvmlDeviceGetCount_v2'
+collect2: error: ld returned 1 exit status
+
+
