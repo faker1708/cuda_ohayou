@@ -1,0 +1,9 @@
+cudaMalloc
+cudaMemcpy
+cudaFree
+
+
+
+	cudaMemcpy(d_a, &a, size, cudaMemcpyHostToDevice);
+    
+	cudaMemcpy(&c, d_c, size, cudaMemcpyDeviceToHost);
