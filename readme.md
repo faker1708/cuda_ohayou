@@ -15,3 +15,7 @@ centos7
 11 G
 
 1178
+
+git config --global user.name "faker1708"
+git config --global user.email "faker1708@gmail.com"
+
